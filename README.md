@@ -1,6 +1,12 @@
+#Information about this project
+A simple UI with a search field and a list of git repositories that is rendered below the search field. 
+When you type in a given users name, you will get the list of repositories that may match the search query.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
